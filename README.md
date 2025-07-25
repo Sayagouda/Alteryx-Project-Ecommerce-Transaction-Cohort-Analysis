@@ -134,8 +134,8 @@ This comprehensive utilization of Alteryx highlights its remarkable capabilities
 I plan to automate the generation of a comprehensive PDF report combining Phase 2 cohort analysis results with answers to 13 business questions. This report will be sent automatically to a designated list of recipients. Additionally, I'm exploring the possibility of exporting Phase 2 cohort analysis data to Tableau using the Tableau output tool.
 
 
-**Project Created By: [Roopmathi Gunna]**
-**Date: [10-06-2023]**
+**Project Created By: [Sayagouda Basai]**
+**Date: [18-07-2025]**
 
 ---
 
