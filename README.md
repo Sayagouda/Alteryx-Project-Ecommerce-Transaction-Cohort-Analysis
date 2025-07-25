@@ -1,6 +1,6 @@
 # Project Origin
 
-In September 2023, guided by Alteryx expert Albert Bellamy, I undertook the 30-day Alteryx challenge, culminating in earning the Alteryx Designer Core certification. in just 15 days.
+In June 2025, guided by Alteryx expert Albert Bellamy, I undertook the 30-day Alteryx challenge, culminating in earning the Alteryx Designer Core certification. in just 15 days.
 
 - This project showcases my two critical capabilities:
   - Rapid Learning: Demonstrates my ability to swiftly master new tools, an asset I bring to any employer.
